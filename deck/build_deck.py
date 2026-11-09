@@ -186,6 +186,7 @@ for i, c in enumerate(concl, 1):
     s = s.replace(f'<div class="card ph p" style="flex:1;display:flex;align-items:center">[Conclusão {i}]</div>',
                   f'<div class="card" style="flex:1;display:flex;align-items:center;font-size:17px;line-height:1.35"><div>{c}</div></div>')
 
+s = s.replace("[link do repositório do grupo]", "github.com/felipetmacedo/taes-multiagente-requisitos")
 out = Path("deck/TAES_Multiagente.html"); out.write_text(s, encoding="utf-8")
 left = re.findall(r"\[[^\]<]{1,40}\]", re.sub(r"data:[^\"']+", "", s))
 print("ok", len(s) // 1024, "KB; slides:", s.count('<section class="slide'), "; colchetes restantes:", left)
