@@ -1,0 +1,354 @@
+generator,eval_judge,repository,issue_number,version,requirement,unambiguity,verifiability,singularity,fidelity
+gpt-6-luna,nemotron-judge,godotengine/godot-proposals,7329,final,The system shall support struct declarations in GDScript.,3,2,5,5
+gpt-6-luna,nemotron-judge,flutter/flutter,18443,final,The system shall permit a line break at U+00AD and render a hyphen at the line end when that break is taken.,5,5,5,5
+deepseek-v4.1-flash,nemotron-judge,rust-lang/rust,42721,first,"The system shall accept negative trait bounds, allowing a type parameter to be constrained as not implementing a specified trait.",4,5,5,5
+gpt-6-luna,nemotron-judge,flutter/flutter,41980,first,The system shall allow users to customize the desktop splash screen or background color.,2,2,2,5
+deepseek-v4.1-flash,nemotron-judge,rust-lang/rust,42721,final,"The system shall accept negative trait bounds, allowing a type parameter to be constrained as not implementing a specified trait.",4,5,5,5
+deepseek-v4.1-flash,nemotron-judge,flutter/flutter,18443,first,The system shall break lines at soft hyphen characters (U+00AD) and render a hyphen at the end of the broken line.,5,5,5,5
+deepseek-v4.1-flash,nemotron-judge,rust-lang/rust,74970,first,The system shall treat `pub` visibility in a binary crate as equivalent to `pub(crate)` when producing diagnostics.,5,5,5,5
+gpt-6-luna,nemotron-judge,flutter/flutter,18443,first,The system shall permit a line break at U+00AD and render a hyphen at the line end when that break is taken.,5,5,5,5
+deepseek-v4.1-flash,nemotron-judge,rust-lang/rust,74970,final,The system shall treat `pub` visibility in a binary crate as equivalent to `pub(crate)` when producing diagnostics.,4,4,5,5
+gpt-6-luna,nemotron-judge,godotengine/godot-proposals,7329,first,The system shall support struct declarations in GDScript.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,flutter/flutter,18443,final,The system shall break lines at soft hyphen characters (U+00AD) and render a hyphen at the end of the broken line.,5,5,5,5
+deepseek-v4.1-flash,nemotron-judge,flutter/flutter,41980,first,The system shall allow the user to customize the splash screen or background color.,2,2,2,5
+gpt-6-luna,nemotron-judge,flutter/flutter,41980,final,The system shall allow users to set the desktop background color.,4,4,5,4
+deepseek-v4.1-flash,nemotron-judge,godotengine/godot-proposals,7842,first,The system shall expose a zero-allocation API to Godot C# bindings.,3,3,5,5
+deepseek-v4.1-flash,nemotron-judge,pytorch/pytorch,2001,first,The system shall provide a PyTorch function that displays a model summary similar to Keras model.summary().,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,flutter/flutter,41980,final,The system shall allow the splash screen background color to be changed to a user-selected color.,4,4,5,5
+deepseek-v4.1-flash,nemotron-judge,pytorch/pytorch,2001,final,The system shall provide a PyTorch function that outputs a model summary equivalent to Keras's model.summary().,2,2,5,5
+deepseek-v4.1-flash,nemotron-judge,godotengine/godot-proposals,7842,final,The system shall expose a Godot C# bindings API that performs no managed heap allocations when called.,4,4,5,5
+gpt-6-luna,nemotron-judge,godotengine/godot-proposals,7842,first,The system shall expose a zero-allocation API to Godot C# bindings.,2,3,5,5
+deepseek-v4.1-flash,nemotron-judge,pytorch/pytorch,47688,first,The system shall support the ARM Mac 16-core Neural Engine.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,godotengine/godot-proposals,7329,first,The system shall support the declaration of struct data types in GDScript.,4,4,5,5
+gpt-6-luna,nemotron-judge,godotengine/godot-proposals,7842,final,The system shall expose an API to Godot C# bindings whose invocation performs no managed-heap allocations.,4,3,5,5
+deepseek-v4.1-flash,nemotron-judge,pytorch/pytorch,47688,final,The system shall execute on an ARM Mac with a 16-core Neural Engine.,4,5,5,5
+deepseek-v4.1-flash,nemotron-judge,golang/go,18478,first,The system shall provide escape functions in the database/sql package.,2,2,3,5
+deepseek-v4.1-flash,nemotron-judge,golang/go,18478,final,The system shall provide an escaping function whose output conforms to the escaping rules of the database dialect in use.,3,3,5,5
+gpt-6-luna,nemotron-judge,pytorch/pytorch,2001,first,The system shall provide a PyTorch model summary function analogous to Keras’s `model.summary()`.,3,2,5,5
+gpt-6-luna,nemotron-judge,golang/go,34055,first,The system shall allow serving a module located in a subdirectory of a Git repository.,2,2,5,5
+gpt-6-luna,nemotron-judge,pytorch/pytorch,2001,final,The system shall provide a PyTorch function that displays a model summary analogous to Keras’s `model.summary()`.,3,3,5,5
+deepseek-v4.1-flash,nemotron-judge,godotengine/godot-proposals,7329,final,"The system shall support declaring a struct in GDScript, verifiable by accepting a script that contains a struct declaration without error.",5,5,5,5
+gpt-6-luna,nemotron-judge,golang/go,18478,final,The system shall provide escape functions in the database/sql package.,2,2,4,5
+qwen3.8-flash,nemotron-judge,flutter/flutter,18443,final,The system shall support soft hyphenation by breaking lines at U+00AD and rendering a hyphen at the end of the line.,4,5,5,5
+gpt-6-luna,nemotron-judge,golang/go,18478,first,The system shall provide escape functions in the database/sql package.,2,2,3,5
+gpt-6-luna,nemotron-judge,rust-lang/rust,42721,first,The system shall allow negative trait bounds to be specified.,2,2,5,5
+gpt-6-luna,nemotron-judge,golang/go,34055,final,The system shall allow cmd/go to download a Go module from a Git repository when the module’s go.mod file is in a repository subdirectory.,4,4,5,5
+deepseek-v4.1-flash,nemotron-judge,golang/go,34055,first,The system shall allow serving a module under a subdirectory of a Git repository.,2,2,4,5
+qwen3.8-flash,nemotron-judge,flutter/flutter,41980,final,The system shall display the user-selected background color on the desktop splash screen.,4,5,5,5
+qwen3.8-flash,nemotron-judge,flutter/flutter,41980,first,The system shall allow customization of the desktop splash screen background color.,4,4,5,5
+qwen3.8-flash,nemotron-judge,godotengine/godot-proposals,7842,first,The system shall expose a zero-allocation API to the Godot C# bindings.,3,3,5,5
+deepseek-v4.1-flash,nemotron-judge,golang/go,34055,final,"The system shall allow cmd/go to serve, meaning make available, a Go module, a versioned collection of Go source files, located in a nested folder of a Git repository.",2,2,4,5
+gpt-6-luna,nemotron-judge,rust-lang/rust,42721,final,The system shall support trait bounds that specify a type does not implement a trait.,3,2,5,5
+gpt-6-luna,nemotron-judge,pytorch/pytorch,47688,final,The system shall support the 16-core Neural Engine on ARM Mac systems.,2,2,4,5
+gpt-6-luna,nemotron-judge,pytorch/pytorch,47688,first,The system shall support the 16-core Neural Engine on ARM Mac systems.,3,2,5,5
+qwen3.8-flash,nemotron-judge,pytorch/pytorch,2001,final,"The system shall provide a PyTorch function that returns a model summary string containing each layer's name, output shape, and parameter count for a supplied model.",4,5,5,5
+qwen3.8-flash,nemotron-judge,pytorch/pytorch,2001,first,The system shall provide a PyTorch function that produces a model summary similar to Keras model.summary().,2,2,5,5
+gpt-6-luna,nemotron-judge,rust-lang/rust,74970,first,The system shall treat `pub` declarations in binary targets as `pub(crate)` when producing diagnostics.,5,5,5,5
+qwen3.8-flash,nemotron-judge,rust-lang/rust,74970,first,The system shall treat `pub` in a binary as equivalent to `pub(crate)` for diagnostics.,4,4,5,5
+qwen3.8-flash,nemotron-judge,godotengine/godot-proposals,7842,final,The system shall expose a Godot C# bindings API whose every call performs no memory allocation.,3,2,5,5
+qwen3.8-flash,nemotron-judge,flutter/flutter,18443,first,The system shall support soft hyphenation by breaking lines at U+00AD and rendering a hyphen at the end of the line.,5,5,5,5
+qwen3.8-flash,nemotron-judge,rust-lang/rust,74970,final,The system shall generate the same diagnostics for `pub` items in binary crates as for `pub(crate)` items.,3,3,5,5
+qwen3.8-flash,nemotron-judge,godotengine/godot-proposals,7329,final,The system shall accept struct declarations in GDScript.,3,2,5,5
+qwen3.8-flash,nemotron-judge,godotengine/godot-proposals,7329,first,The system shall support declaring struct types in GDScript.,3,2,5,5
+gpt-6-luna,nemotron-judge,rust-lang/rust,74970,final,The system shall evaluate `pub` visibility in a binary as `pub(crate)` when producing diagnostics.,4,5,5,5
+qwen3.8-flash,nemotron-judge,golang/go,18478,first,The system shall provide escape functions for the database/sql component.,2,2,4,5
+qwen3.8-flash,nemotron-judge,rust-lang/rust,42721,first,The system shall support the parsing and validation of negative trait bounds.,2,2,3,5
+qwen3.8-flash,nemotron-judge,golang/go,34055,first,The system shall allow serving a module from a subdirectory of a Git repository.,2,2,4,5
+qwen3.8-flash,nemotron-judge,rust-lang/rust,42721,final,"The system shall parse a trait bound consisting of ""!"" followed by a trait name as a negative trait bound.",5,5,5,5
+qwen3.8-flash,nemotron-judge,golang/go,18478,final,The system shall provide database/sql escape functions that escape SQL string literals by duplicating each single-quote character.,5,5,5,5
+qwen3.8-flash,nemotron-judge,golang/go,34055,final,The system shall allow serving a module from a subdirectory of a Git repository.,3,3,5,5
+qwen3.8-flash,nemotron-judge,pytorch/pytorch,47688,first,The system shall use the 16-core Neural Engine on an ARM Mac.,3,4,5,5
+qwen3.8-flash,nemotron-judge,pytorch/pytorch,47688,final,The system shall use the ARM Mac 16-core Neural Engine whenever neural-network inference is executed on ARM Mac hardware.,4,5,5,5
+deepseek-v4.1-flash,nemotron-judge,flutter/flutter,21594,first,The system shall apply the colspan value of a TableCell to span that cell across the specified number of columns in its TableRow within a Table.,5,5,5,5
+deepseek-v4.1-flash,nemotron-judge,flutter/flutter,14330,first,The system shall support code push to deliver application code updates out of band.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,godotengine/godot-proposals,3518,first,The system shall replace GridMap with an improved TileMap3D node inspired by the new 2D TileMap.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,godotengine/godot-proposals,867,first,The system shall provide a Set primitive that complements the existing Dictionary and Array primitives.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,flutter/flutter,14330,final,The system shall support hot updates.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,flutter/flutter,19941,final,The system shall return the index of the first visible item in a ListView.,3,3,5,5
+deepseek-v4.1-flash,nemotron-judge,flutter/flutter,21594,final,The system shall apply a TableCell's colspan attribute when rendering that TableCell within a TableRow in a Table.,5,5,5,5
+deepseek-v4.1-flash,nemotron-judge,flutter/flutter,19941,first,The system shall return the index of the first visible item in a ListView.,3,4,5,
+deepseek-v4.1-flash,nemotron-judge,godotengine/godot-proposals,867,final,The system shall provide a Set primitive as a distinct collection type alongside the existing Dictionary and Array primitives.,5,5,5,5
+deepseek-v4.1-flash,nemotron-judge,flutter/flutter,31713,first,The system shall implement PlatformView support on Windows.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,godotengine/godot-proposals,3518,final,The system shall replace the GridMap node with a TileMap3D node.,4,4,5,5
+deepseek-v4.1-flash,nemotron-judge,flutter/flutter,31713,final,"The system shall enable a PlatformView, defined as a platform-native view embedded in the application, to be created and displayed on Windows.",4,4,5,5
+deepseek-v4.1-flash,nemotron-judge,flutter/flutter,33850,first,The system shall investigate Swift Package Manager for Swift plugins.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,godotengine/godot-proposals,3394,final,The system shall generate audio procedurally from parameters supplied at runtime.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,flutter/flutter,33850,final,The system shall report whether Swift Package Manager can be used for Swift plugins.,3,2,5,5
+deepseek-v4.1-flash,nemotron-judge,godotengine/godot-proposals,3394,first,The system shall provide parametrizable procedural audio support.,1,1,3,5
+deepseek-v4.1-flash,nemotron-judge,godotengine/godot-proposals,28,first,The system shall support the use of multiple displays in the Godot editor.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,flutter/flutter,33577,first,The system shall support running compute operations on a separate thread in Flutter Web.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,godotengine/godot-proposals,28,final,The system shall allow the Godot editor to display its interface on more than one connected monitor simultaneously.,4,5,5,5
+deepseek-v4.1-flash,nemotron-judge,flutter/flutter,33577,final,The system shall execute Flutter Web compute tasks on a thread separate from the main thread.,4,4,5,
+deepseek-v4.1-flash,nemotron-judge,godotengine/godot-proposals,1034,first,The system shall support variadic functions in GDScript.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,flutter/flutter,24213,first,The system shall support Widgets as markers.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,godotengine/godot-proposals,1034,final,The system shall allow GDScript functions to be declared and called with a variable number of arguments.,3,3,4,5
+deepseek-v4.1-flash,nemotron-judge,flutter/flutter,24213,final,The system shall display a Flutter Widget as a marker in google_maps_flutter.,3,2,5,5
+deepseek-v4.1-flash,nemotron-judge,golang/go,19282,first,The system shall support the plugin on the Windows operating system.,2,2,3,5
+deepseek-v4.1-flash,nemotron-judge,godotengine/godot-proposals,6031,first,The system shall improve the performance of the GDScript virtual machine.,1,1,2,
+deepseek-v4.1-flash,nemotron-judge,godotengine/godot-proposals,7916,first,The system shall implement a rendering compositor.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,pytorch/pytorch,26340,first,The system shall publish a CPU-only build of PyTorch to the Python Package Index.,4,4,5,5
+deepseek-v4.1-flash,nemotron-judge,pytorch/pytorch,26340,final,The system shall publish a CPU-only build of PyTorch to the Python Package Index.,4,5,5,
+deepseek-v4.1-flash,nemotron-judge,godotengine/godot-proposals,641,final,The system shall accept public and private access modifiers on GDScript declarations.,4,4,5,5
+deepseek-v4.1-flash,nemotron-judge,godotengine/godot-proposals,7916,final,The system shall implement a rendering compositor that combines rendered layers into a single composited output.,3,2,5,5
+deepseek-v4.1-flash,nemotron-judge,pytorch/pytorch,16897,first,"The system shall provide a function that randomly selects an element from a supplied array, equivalent to `numpy.random.choice`.",3,3,5,5
+deepseek-v4.1-flash,nemotron-judge,golang/go,36785,final,"The system shall provide a documented, programmatically accessible API for pkg.go.dev.",4,3,5,5
+deepseek-v4.1-flash,nemotron-judge,godotengine/godot-proposals,641,first,The system shall support public and private access modifiers in GDScript and include them in autocompletion.,3,3,2,5
+deepseek-v4.1-flash,nemotron-judge,pytorch/pytorch,16897,final,"The system shall provide a function that randomly selects an element from a supplied array, equivalent to `numpy.random.choice`.",3,2,4,5
+deepseek-v4.1-flash,nemotron-judge,godotengine/godot-proposals,6031,final,The system shall reduce the execution time of the GDScript VM for a fixed GDScript workload compared with the current implementation.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,golang/go,28424,first,The system shall provide `go get` options that update direct dependencies and indirect dependencies separately.,3,3,5,5
+deepseek-v4.1-flash,nemotron-judge,golang/go,36785,first,The system shall provide an API for pkg.go.dev.,2,2,5,5
+deepseek-v4.1-flash,nemotron-judge,flutter/flutter,61229,first,The system shall support the AVIF codec.,3,2,5,5
+deepseek-v4.1-flash,nemotron-judge,golang/go,28424,final,The system shall provide distinct 'go get' command-line options for updating direct dependencies and indirect dependencies separately.,4,4,5,5
+deepseek-v4.1-flash,nemotron-judge,golang/go,27348,first,The system shall allow verifying vendored code.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,golang/go,19282,final,The system shall load the plugin on Windows.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,golang/go,27348,final,The system shall allow the go command to verify vendored code against its corresponding module source and report any mismatch as an error.,4,5,5,5
+deepseek-v4.1-flash,nemotron-judge,golang/go,25755,final,"The system shall parse XML documents as XML 1.1 when their XML declaration specifies version=""1.1"".",5,5,5,5
+deepseek-v4.1-flash,nemotron-judge,golang/go,28631,first,The system shall support threads when compiling programs for the WebAssembly target.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,flutter/flutter,61229,final,The system shall support the AVIF codec for both encoding and decoding.,4,5,5,5
+deepseek-v4.1-flash,nemotron-judge,golang/go,25755,first,The system shall support XML version 1.1 in encoding/xml.,3,3,5,5
+deepseek-v4.1-flash,nemotron-judge,golang/go,28631,final,The system shall enable cmd/compile to emit WebAssembly modules that use the WebAssembly threads feature.,4,4,5,
+deepseek-v4.1-flash,nemotron-judge,rust-lang/rust,94347,first,The system shall use mold as the default linker.,4,5,5,5
+deepseek-v4.1-flash,nemotron-judge,rust-lang/rust,94347,final,The system shall use mold as the default linker.,5,5,5,5
+deepseek-v4.1-flash,nemotron-judge,golang/go,20982,first,The system shall support linking MSVC object files.,3,2,5,5
+deepseek-v4.1-flash,nemotron-judge,golang/go,20982,final,The system shall accept Microsoft Visual C++ (MSVC) object files as linker input without reporting an unsupported-file error.,4,4,5,5
+deepseek-v4.1-flash,nemotron-judge,pytorch/pytorch,95408,first,The system shall provide a parallel associative scan operation.,2,2,5,
+deepseek-v4.1-flash,nemotron-judge,pytorch/pytorch,87350,first,The system shall support the OpenCL 3.0 API through the rusticl implementation.,4,4,5,5
+deepseek-v4.1-flash,nemotron-judge,pytorch/pytorch,87350,final,The system shall support OpenCL 3.0.,2,2,5,4
+deepseek-v4.1-flash,nemotron-judge,pytorch/pytorch,95408,final,The system shall compute a parallel associative scan such that its output equals the output of a sequential associative scan for the same associative operator and input sequence.,5,5,5,5
+deepseek-v4.1-flash,nemotron-judge,rust-lang/rust,73185,final,The system shall allow Cargo to pass rustdoc’s `--enable-index-page` option when generating documentation.,4,5,5,5
+deepseek-v4.1-flash,nemotron-judge,pytorch/pytorch,20822,final,"The system shall provide a data reading framework for PyTorch that supports sources such as Hive, MySQL, and S3.",2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,rust-lang/rust,73185,first,The system shall allow Cargo to pass rustdoc’s `--enable-index-page` option when generating documentation.,4,5,5,5
+deepseek-v4.1-flash,nemotron-judge,pytorch/pytorch,20822,first,"The system shall provide a data reading framework for PyTorch that supports sources such as Hive, MySQL, and S3.",3,3,4,
+deepseek-v4.1-flash,nemotron-judge,rust-lang/rust,54363,first,The system shall allow a procedural macro to refer to a specific crate or symbol in a manner similar to `$crate`.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,rust-lang/rust,54363,final,The system shall allow a proc macro to refer to the crate in which the proc macro is defined.,3,2,5,5
+deepseek-v4.1-flash,nemotron-judge,pytorch/pytorch,17835,first,The system shall support the PyPy Python interpreter.,2,2,5,5
+deepseek-v4.1-flash,nemotron-judge,pytorch/pytorch,17835,final,The system shall execute without errors when run on the PyPy interpreter.,3,3,5,5
+gpt-6-luna,nemotron-judge,flutter/flutter,21594,first,The system shall allow a TableCell to span multiple columns within a TableRow.,4,4,5,5
+gpt-6-luna,nemotron-judge,flutter/flutter,21594,final,The system shall allow a TableCell to span multiple columns within a TableRow.,4,4,5,5
+deepseek-v4.1-flash,nemotron-judge,pytorch/pytorch,93173,first,The system shall provide PT2-friendly collective communication APIs that are traceable and functional.,2,1,2,5
+gpt-6-luna,nemotron-judge,flutter/flutter,19941,first,The system shall return the index of the first visible item in the ListView.,4,5,5,5
+gpt-6-luna,nemotron-judge,flutter/flutter,33850,first,The system shall evaluate Swift Package Manager for Swift plugins.,2,2,3,5
+deepseek-v4.1-flash,nemotron-judge,pytorch/pytorch,64932,first,The system shall provide a shared-memory tensor store called TorchStore.,3,2,5,5
+gpt-6-luna,nemotron-judge,flutter/flutter,24213,final,The system shall support rendering Flutter widgets as markers on Google Maps.,3,2,5,5
+deepseek-v4.1-flash,nemotron-judge,pytorch/pytorch,64932,final,The system shall provide a tensor store in shared memory.,2,2,4,5
+gpt-6-luna,nemotron-judge,flutter/flutter,19941,final,The system shall return the index of the first visible item in the ListView.,4,4,5,5
+gpt-6-luna,nemotron-judge,flutter/flutter,24213,first,The system shall allow widgets to be used as markers on Google Maps.,2,2,3,5
+gpt-6-luna,nemotron-judge,flutter/flutter,33850,final,The system shall determine whether Swift Package Manager can load a Swift plugin.,2,2,5,5
+deepseek-v4.1-flash,nemotron-judge,pytorch/pytorch,93173,final,The system shall provide collective communication APIs.,1,1,2,4
+deepseek-v4.1-flash,nemotron-judge,rust-lang/rust,74182,first,"The system shall support the `#[doc(since=""version"")]` attribute.",2,2,4,
+gpt-6-luna,nemotron-judge,flutter/flutter,31713,final,The system shall support PlatformView on Windows.,2,2,3,5
+deepseek-v4.1-flash,nemotron-judge,rust-lang/rust,68007,final,"The system shall allow tests to be ignored at runtime, ensuring ignored tests are not executed.",3,2,5,5
+gpt-6-luna,nemotron-judge,godotengine/godot-proposals,867,first,The system shall provide a Set primitive alongside the Dictionary and Array primitives.,4,4,5,5
+gpt-6-luna,nemotron-judge,flutter/flutter,61229,first,The system shall support the AVIF codec.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,rust-lang/rust,76490,first,The system shall reduce the runtime overhead of `format_args!` relative to its current implementation.,2,2,4,5
+gpt-6-luna,nemotron-judge,flutter/flutter,31713,first,The system shall support PlatformView on Windows.,2,2,3,5
+gpt-6-luna,nemotron-judge,flutter/flutter,61229,final,The system shall support the AVIF codec.,3,3,4,5
+deepseek-v4.1-flash,nemotron-judge,rust-lang/rust,68007,first,The system shall allow tests to be ignored at runtime.,2,2,4,5
+gpt-6-luna,nemotron-judge,flutter/flutter,33577,first,The system shall support executing compute operations on a separate thread in Flutter Web.,3,3,5,5
+deepseek-v4.1-flash,nemotron-judge,rust-lang/rust,76490,final,The system shall reduce format_args! execution time versus its pre-change implementation by at least the project's existing benchmark's minimum detectable effect at its defined significance level.,3,4,5,
+deepseek-v4.1-flash,nemotron-judge,rust-lang/rust,74182,final,"The system shall parse `#[doc(since=""version"")]` as a valid documentation attribute.",4,5,5,5
+gpt-6-luna,nemotron-judge,flutter/flutter,33577,final,The system shall execute callbacks invoked through Flutter’s `compute` function in a Web Worker rather than on the browser’s main thread.,5,5,5,
+gpt-6-luna,nemotron-judge,godotengine/godot-proposals,867,final,The system shall provide a Set primitive alongside the Dictionary and Array primitives.,4,2,5,5
+deepseek-v4.1-flash,nemotron-judge,golang/go,37205,final,The system shall return a valid LSP response for every LSP request gopls receives in a Bazel-based project.,3,2,5,
+gpt-6-luna,nemotron-judge,golang/go,36785,final,The system shall provide an API for pkg.go.dev.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,golang/go,37205,first,The system shall support Bazel-based projects.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,rust-lang/rust,47741,first,The system shall allow the struct initializer `..x` syntax to work for other structs with a structurally equal subset of fields.,2,3,4,5
+gpt-6-luna,nemotron-judge,golang/go,36785,first,The system shall provide an API for pkg.go.dev.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,rust-lang/rust,77960,first,The system shall use trampolines so that the body of a generic function is compiled as non-generic code.,2,2,4,5
+deepseek-v4.1-flash,nemotron-judge,rust-lang/rust,77960,final,The system shall move type-independent code from a generic function's body into a separate non-generic function that the generic function calls.,4,3,5,5
+deepseek-v4.1-flash,nemotron-judge,rust-lang/rust,47741,final,The system shall allow a struct initializer to fill omitted fields from another struct when the other struct's fields have identical names and types to the initialized struct's fields.,4,4,5,5
+gpt-6-luna,nemotron-judge,godotengine/godot-proposals,641,final,The system shall support public and private access modifiers in GDScript.,4,4,4,5
+gpt-6-luna,nemotron-judge,godotengine/godot-proposals,3394,first,The system shall generate audio procedurally using configurable parameters.,2,2,4,
+gpt-6-luna,nemotron-judge,godotengine/godot-proposals,1034,final,The system shall allow GDScript functions to accept a variable number of arguments.,4,4,5,5
+gpt-6-luna,nemotron-judge,godotengine/godot-proposals,641,first,The system shall support public and private access modifiers in GDScript.,3,3,4,5
+gpt-6-luna,nemotron-judge,godotengine/godot-proposals,3394,final,The system shall generate procedural audio whose output is determined by its configurable parameter values.,2,2,4,5
+gpt-6-luna,nemotron-judge,godotengine/godot-proposals,1034,first,The system shall allow GDScript functions to accept a variable number of arguments.,4,4,5,5
+gpt-6-luna,nemotron-judge,godotengine/godot-proposals,28,final,The system shall allow the Godot editor to be used with multiple displays simultaneously.,2,2,4,5
+gpt-6-luna,nemotron-judge,golang/go,20982,final,The system shall link MSVC object files using `cmd/link`.,4,4,5,5
+gpt-6-luna,nemotron-judge,godotengine/godot-proposals,28,first,The system shall allow the Godot editor to be used with multiple displays.,2,2,3,5
+gpt-6-luna,nemotron-judge,golang/go,20982,first,The system shall link MSVC object files using `cmd/link`.,4,5,5,5
+gpt-6-luna,nemotron-judge,golang/go,28631,first,The system shall support compiling threaded programs to WebAssembly.,2,2,4,
+gpt-6-luna,nemotron-judge,godotengine/godot-proposals,7916,first,The system shall combine rendered content into a composite output.,2,2,4,
+gpt-6-luna,nemotron-judge,godotengine/godot-proposals,7916,final,The system shall combine rendered visual layers into a single image.,3,3,5,
+gpt-6-luna,nemotron-judge,golang/go,25755,first,The system shall support XML version 1.1.,4,4,5,5
+gpt-6-luna,nemotron-judge,golang/go,28424,first,The system shall provide `go get` options to update direct dependencies separately from indirect dependencies.,4,4,5,5
+gpt-6-luna,nemotron-judge,pytorch/pytorch,26340,final,The system shall publish a CPU-only PyTorch distribution on PyPI.,4,5,5,
+gpt-6-luna,nemotron-judge,pytorch/pytorch,95408,first,The system shall compute an associative scan in parallel.,2,2,4,
+gpt-6-luna,nemotron-judge,pytorch/pytorch,26340,first,The system shall publish a CPU version of PyTorch on PyPI.,4,5,5,5
+gpt-6-luna,nemotron-judge,godotengine/godot-proposals,6031,first,The system shall improve the performance of the GDScript VM.,1,1,2,5
+gpt-6-luna,nemotron-judge,golang/go,25755,final,The system shall parse XML documents with an XML declaration specifying version `1.1`.,5,5,5,
+gpt-6-luna,nemotron-judge,golang/go,28424,final,The system shall provide `go get` options to update direct dependencies separately from indirect dependencies.,4,4,5,5
+gpt-6-luna,nemotron-judge,godotengine/godot-proposals,6031,final,The system shall reduce GDScript VM execution time compared with the existing implementation.,2,2,5,5
+gpt-6-luna,nemotron-judge,golang/go,28631,final,The system shall compile threaded programs into valid WebAssembly output.,2,2,5,
+gpt-6-luna,nemotron-judge,rust-lang/rust,94347,first,The system shall use mold as its default linker.,5,5,5,5
+gpt-6-luna,nemotron-judge,pytorch/pytorch,17835,first,The system shall be compatible with the PyPy interpreter.,2,2,5,5
+gpt-6-luna,nemotron-judge,rust-lang/rust,94347,final,The system shall use mold as its default linker.,5,5,5,5
+gpt-6-luna,nemotron-judge,pytorch/pytorch,95408,final,"The system shall compute, for each input element, the result of applying the associative operator in input order to all elements from the beginning through that element.",5,5,5,5
+gpt-6-luna,nemotron-judge,pytorch/pytorch,17835,final,The system shall run on PyPy.,5,5,5,
+gpt-6-luna,nemotron-judge,pytorch/pytorch,93173,first,The system shall provide PT2-friendly collective communication APIs with functional behavior and traceability.,2,2,2,5
+gpt-6-luna,nemotron-judge,golang/go,37205,first,The system shall support Bazel-based projects.,2,2,2,5
+gpt-6-luna,nemotron-judge,rust-lang/rust,74182,final,"The system shall accept the `#[doc(since=""<version>"")]` attribute when `<version>` is a string literal.",4,5,5,5
+gpt-6-luna,nemotron-judge,flutter/flutter,14330,first,The system shall support out-of-band updates to application code.,2,2,4,5
+gpt-6-luna,nemotron-judge,rust-lang/rust,74182,first,"The system shall accept the `#[doc(since=""version"")]` attribute.",2,2,5,5
+gpt-6-luna,nemotron-judge,golang/go,37205,final,The system shall open a Bazel-based project as a workspace.,2,2,4,5
+gpt-6-luna,nemotron-judge,pytorch/pytorch,93173,final,The system shall provide APIs for collective communication.,2,2,3,4
+gpt-6-luna,nemotron-judge,flutter/flutter,14330,final,The system shall update application code without requiring distribution of a new application binary.,3,2,5,5
+gpt-6-luna,nemotron-judge,pytorch/pytorch,16897,first,The system shall provide a random-choice operation with behavior equivalent to `numpy.random.choice`.,3,3,5,
+qwen3.8-flash,nemotron-judge,flutter/flutter,21594,first,The system shall render a TableCell in a TableRow spanning the number of columns specified by its colspan attribute.,5,5,5,
+gpt-6-luna,nemotron-judge,rust-lang/rust,54363,first,The system shall provide procedural macros with a mechanism to reference a specific crate or symbol.,3,2,4,5
+gpt-6-luna,nemotron-judge,rust-lang/rust,54363,final,The system shall allow procedural macros to emit references that resolve to the crate or symbol designated by the macro author.,4,4,5,5
+gpt-6-luna,nemotron-judge,pytorch/pytorch,87350,first,The system shall provide OpenCL 3.0 support for every GPU on Earth through Rusticl.,1,1,2,5
+gpt-6-luna,nemotron-judge,pytorch/pytorch,87350,final,"The system shall provide OpenCL 3.0 functionality through Rusticl on every GPU, demonstrated by passing OpenCL 3.0 conformance tests.",4,5,5,5
+qwen3.8-flash,nemotron-judge,flutter/flutter,21594,final,The system shall render a TableCell in a TableRow spanning the number of columns specified by its colspan attribute.,4,5,5,5
+gpt-6-luna,nemotron-judge,godotengine/godot-proposals,3518,final,The system shall replace the GridMap node with a TileMap3D node.,4,5,5,5
+gpt-6-luna,nemotron-judge,pytorch/pytorch,16897,final,The system shall provide an operation that selects an item at random from a supplied collection.,4,3,5,5
+gpt-6-luna,nemotron-judge,pytorch/pytorch,20822,final,"The system shall enable PyTorch to read data from Hive, MySQL, and S3.",3,3,2,5
+gpt-6-luna,nemotron-judge,pytorch/pytorch,20822,first,"The system shall provide a framework for reading data into PyTorch from Hive, MySQL, and S3.",2,2,3,5
+gpt-6-luna,nemotron-judge,rust-lang/rust,73185,final,The system shall support the rustdoc `--enable-index-page` option when building documentation through Cargo.,4,5,5,
+gpt-6-luna,nemotron-judge,godotengine/godot-proposals,3518,first,The system shall provide a TileMap3D node as a replacement for GridMap.,3,2,4,5
+gpt-6-luna,nemotron-judge,pytorch/pytorch,64932,first,The system shall store tensors in shared memory.,2,2,4,5
+gpt-6-luna,nemotron-judge,golang/go,19282,first,The system shall support operation of the plugin on Windows.,2,2,4,5
+gpt-6-luna,nemotron-judge,rust-lang/rust,73185,first,The system shall support the rustdoc `--enable-index-page` option when building documentation through Cargo.,4,5,5,
+gpt-6-luna,nemotron-judge,golang/go,19282,final,The system shall run the plugin in a Windows environment.,3,3,5,5
+gpt-6-luna,nemotron-judge,pytorch/pytorch,64932,final,The system shall store tensors in shared memory.,4,3,5,5
+gpt-6-luna,nemotron-judge,golang/go,27348,first,The system shall allow users to verify vendored code.,2,2,4,5
+qwen3.8-flash,nemotron-judge,flutter/flutter,19941,first,The system shall return the index of the first visible item in the ListView.,4,4,5,5
+gpt-6-luna,nemotron-judge,rust-lang/rust,76490,final,The system shall reduce the execution time of `format_args!` compared with its current implementation for equivalent inputs.,2,2,5,5
+qwen3.8-flash,nemotron-judge,flutter/flutter,19941,final,The system shall return the index of the first visible item in the ListView.,3,4,5,5
+gpt-6-luna,nemotron-judge,golang/go,27348,final,The system shall provide a Go command that lets users check whether vendored code matches its corresponding module source.,2,2,4,5
+gpt-6-luna,nemotron-judge,rust-lang/rust,47741,final,The system shall accept a struct initializer using `..x` when the struct value `x` has fields with matching names and types for every destination field not explicitly initialized.,5,5,5,
+gpt-6-luna,nemotron-judge,rust-lang/rust,68007,final,The system shall exclude tests designated as ignored at runtime from execution.,4,5,5,5
+gpt-6-luna,nemotron-judge,rust-lang/rust,77960,first,The system shall use trampolines to make most of the body of a generic function non-generic.,2,2,4,5
+gpt-6-luna,nemotron-judge,rust-lang/rust,76490,first,The system shall reduce the execution time of `format_args!`.,1,1,5,5
+gpt-6-luna,nemotron-judge,rust-lang/rust,68007,first,The system shall allow tests to be ignored at runtime.,3,2,5,5
+gpt-6-luna,nemotron-judge,rust-lang/rust,47741,first,The system shall support `..x` struct initializer syntax when the source struct has a structurally equal subset of the destination struct’s fields.,3,3,5,5
+qwen3.8-flash,nemotron-judge,flutter/flutter,61229,first,The system shall support the AVIF codec.,2,2,4,
+gpt-6-luna,nemotron-judge,rust-lang/rust,77960,final,The system shall use a trampoline to invoke the non-generic portion of a generic function’s body.,2,2,4,5
+qwen3.8-flash,nemotron-judge,flutter/flutter,33850,final,The system shall output true if Swift Package Manager enables Swift plugins and false otherwise.,5,5,5,
+qwen3.8-flash,nemotron-judge,flutter/flutter,61229,final,The system shall provide AVIF codec functionality for both encoding and decoding.,3,3,4,5
+qwen3.8-flash,nemotron-judge,flutter/flutter,33850,first,The system shall assess Swift Package Manager for Swift plugin support.,2,1,3,5
+qwen3.8-flash,nemotron-judge,flutter/flutter,24213,first,The system shall render Flutter widgets as Google Maps markers.,3,2,5,5
+qwen3.8-flash,nemotron-judge,flutter/flutter,33577,first,The system shall support executing the compute function on a separate thread in Flutter Web.,3,3,4,5
+qwen3.8-flash,nemotron-judge,flutter/flutter,31713,first,The system shall support PlatformView on Windows.,2,2,3,5
+qwen3.8-flash,nemotron-judge,flutter/flutter,24213,final,The system shall render a supplied Flutter widget as the visual content of a Google Maps marker.,3,3,5,5
+qwen3.8-flash,nemotron-judge,flutter/flutter,33577,final,The system shall execute all Flutter Web compute() calls on a worker thread rather than the main thread.,5,5,5,5
+qwen3.8-flash,nemotron-judge,godotengine/godot-proposals,3518,final,The system shall replace the GridMap node with a TileMap3D node.,4,5,5,5
+qwen3.8-flash,nemotron-judge,godotengine/godot-proposals,867,first,The system shall provide a Set primitive complementing Dictionary and Array.,2,2,4,5
+qwen3.8-flash,nemotron-judge,godotengine/godot-proposals,867,final,The system shall implement a Set primitive type representing a collection in which no element occurs more than once.,5,5,5,5
+qwen3.8-flash,nemotron-judge,godotengine/godot-proposals,6031,first,The system shall reduce the execution time of GDScript programs run by the GDScript virtual machine.,2,2,5,
+qwen3.8-flash,nemotron-judge,flutter/flutter,31713,final,The system shall display PlatformView content when executed on Windows.,2,2,4,
+qwen3.8-flash,nemotron-judge,godotengine/godot-proposals,3518,first,The system shall replace the GridMap node with a TileMap3D node.,4,5,5,5
+qwen3.8-flash,nemotron-judge,godotengine/godot-proposals,641,first,The system shall support public and private access modifiers in GDScript declarations and apply modifier-based visibility to autocompletion suggestions.,3,3,2,
+qwen3.8-flash,nemotron-judge,godotengine/godot-proposals,6031,final,"The system shall execute the specified GDScript VM benchmark with measured total execution time less than its pre-change baseline under identical hardware, workload, and configuration.",4,5,5,
+qwen3.8-flash,nemotron-judge,godotengine/godot-proposals,3394,final,The system shall generate audio using caller-supplied procedural parameters.,2,2,4,5
+qwen3.8-flash,nemotron-judge,godotengine/godot-proposals,3394,first,The system shall provide procedurally generated audio support with parametrizable audio settings.,2,2,3,
+qwen3.8-flash,nemotron-judge,golang/go,27348,first,The system shall allow verification of vendored code.,2,2,4,5
+qwen3.8-flash,nemotron-judge,golang/go,28424,first,The system shall provide go get options to update direct and indirect dependencies separately.,4,4,5,5
+qwen3.8-flash,nemotron-judge,pytorch/pytorch,26340,final,The system shall make the CPU version of PyTorch available on PyPI.,3,4,5,5
+qwen3.8-flash,nemotron-judge,golang/go,27348,final,"The system shall provide a vendored-code verification command that reports PASS when each vendored source file's content is identical to its declared upstream source file, else FAIL.",4,5,5,
+qwen3.8-flash,nemotron-judge,golang/go,28424,final,The system shall provide a `go get` option that updates direct dependencies without updating indirect dependencies.,4,5,5,5
+qwen3.8-flash,nemotron-judge,golang/go,28631,first,The system shall support thread functionality for WebAssembly targets in cmd/compile.,2,2,4,5
+qwen3.8-flash,nemotron-judge,golang/go,20982,final,The system shall link Microsoft Visual C++ object files provided as input to the command-line linker.,4,5,5,
+qwen3.8-flash,nemotron-judge,godotengine/godot-proposals,641,final,The system shall parse public and private access modifiers in GDScript without rejecting them as syntax errors.,4,5,5,5
+qwen3.8-flash,nemotron-judge,golang/go,19282,first,The system shall execute plugins on the Windows operating system.,2,2,4,5
+qwen3.8-flash,nemotron-judge,golang/go,20982,first,The system shall link Microsoft Visual C++ object files provided as input to the command-line linker.,4,5,5,5
+qwen3.8-flash,nemotron-judge,golang/go,28631,final,The system shall enable cmd/compile to compile Go source code to WebAssembly with the WebAssembly threads feature enabled.,4,4,5,5
+qwen3.8-flash,nemotron-judge,golang/go,19282,final,The system shall run the plugin on a Windows operating system.,3,3,5,5
+qwen3.8-flash,nemotron-judge,godotengine/godot-proposals,1034,first,The system shall support variadic functions in GDScript.,3,2,5,5
+qwen3.8-flash,nemotron-judge,godotengine/godot-proposals,1034,final,The system shall permit GDScript variadic function declarations and accept calls with zero or more variadic arguments without an argument-count error.,5,5,5,5
+qwen3.8-flash,nemotron-judge,golang/go,37205,final,The system shall initialize gopls without error for Bazel-based projects.,2,2,5,
+qwen3.8-flash,nemotron-judge,golang/go,36785,final,The system shall provide a pkg.go.dev API endpoint that returns package documentation for a package specified in the request.,3,3,5,5
+qwen3.8-flash,nemotron-judge,golang/go,36785,first,The system shall provide an x/pkgsite API for pkg.go.dev.,2,2,3,5
+qwen3.8-flash,nemotron-judge,pytorch/pytorch,17835,first,The system shall support execution on PyPy.,3,3,5,5
+qwen3.8-flash,nemotron-judge,rust-lang/rust,94347,first,The system shall use mold as the default linker.,4,5,5,5
+qwen3.8-flash,nemotron-judge,golang/go,37205,first,The system shall support Bazel-based projects in gopls.,2,2,3,5
+qwen3.8-flash,nemotron-judge,pytorch/pytorch,17835,final,The system shall support execution on PyPy.,3,2,5,5
+qwen3.8-flash,nemotron-judge,rust-lang/rust,94347,final,The system shall use mold as the default linker.,5,5,5,5
+qwen3.8-flash,nemotron-judge,pytorch/pytorch,87350,final,The system shall expose every available GPU through Rusticl as an OpenCL 3.0-conformant device to OpenCL clients.,5,5,5,5
+qwen3.8-flash,nemotron-judge,pytorch/pytorch,87350,first,The system shall provide OpenCL 3.0 GPU support through rusticl.,3,4,5,5
+qwen3.8-flash,nemotron-judge,golang/go,25755,first,The system shall provide support for XML version 1.1 in the encoding/xml package.,4,4,5,5
+qwen3.8-flash,nemotron-judge,godotengine/godot-proposals,28,first,"The system shall support multiple displays, screens, or monitors in the Godot editor.",2,2,4,5
+qwen3.8-flash,nemotron-judge,godotengine/godot-proposals,28,final,The system shall render the Godot editor interface on at least two connected displays when at least two displays are connected.,3,4,5,
+qwen3.8-flash,nemotron-judge,flutter/flutter,14330,first,The system shall apply code push hot updates out of band without requiring application redeployment.,3,3,5,5
+qwen3.8-flash,nemotron-judge,flutter/flutter,14330,final,The system shall apply application code updates delivered separately from the initial application deployment to the installed application without requiring a full application redeployment.,3,3,5,5
+qwen3.8-flash,nemotron-judge,godotengine/godot-proposals,7916,final,The system shall combine rendered visual content into a composited visual output.,3,2,4,5
+qwen3.8-flash,nemotron-judge,godotengine/godot-proposals,7916,first,The system shall include a rendering compositor.,2,2,5,
+qwen3.8-flash,nemotron-judge,golang/go,25755,final,The system shall parse XML documents declared as version 1.1 via the encoding/xml package.,4,5,5,5
+qwen3.8-flash,nemotron-judge,pytorch/pytorch,26340,first,The system shall make the CPU version of PyTorch available on PyPI.,3,3,5,5
+qwen3.8-flash,nemotron-judge,rust-lang/rust,54363,final,The system shall replace the proc-macro token `$crate` during macro expansion with the fully-qualified path of the crate that defines the invoked proc macro.,5,5,5,5
+qwen3.8-flash,nemotron-judge,rust-lang/rust,74182,first,"The system shall support the `#[doc(since=""version"")]` attribute.",2,2,4,5
+qwen3.8-flash,nemotron-judge,rust-lang/rust,54363,first,The system shall allow procedural macros to reference a specified crate or symbol through a `$crate`-like identifier.,3,3,4,
+qwen3.8-flash,nemotron-judge,rust-lang/rust,74182,final,"The system shall embed the literal `since` value from `#[doc(since=""version"")]` in generated documentation.",4,5,5,5
+claude-haiku-5.5,nemotron-judge,flutter/flutter,41980,first,The system shall allow the user to customize the background color of the splash screen displayed at desktop application startup.,4,4,5,5
+claude-haiku-5.5,nemotron-judge,flutter/flutter,18443,first,"The system shall render a soft hyphen (U+00AD) as an invisible break opportunity, and when a line is broken at that point, display a visible hyphen character at the end of the line.",5,5,5,5
+claude-haiku-5.5,nemotron-judge,flutter/flutter,33850,final,"The system shall provide a written assessment document that states whether Swift Package Manager supports Swift plugins, with an explicit supported or not-supported conclusion and a supporting rationale.",5,5,5,5
+claude-haiku-5.5,nemotron-judge,flutter/flutter,41980,final,The system shall allow the user to customize the background color of the splash screen displayed at desktop application startup.,4,4,5,5
+claude-haiku-5.5,nemotron-judge,flutter/flutter,21594,final,The system shall render a TableCell with a colspan attribute value of N as occupying exactly N adjacent columns of its containing TableRow.,5,5,5,5
+claude-haiku-5.5,nemotron-judge,flutter/flutter,21594,first,The system shall support a colspan attribute on table cells so that a TableCell can span multiple columns within its TableRow.,5,5,5,5
+claude-haiku-5.5,nemotron-judge,flutter/flutter,18443,final,"The system shall break a line at an existing U+00AD soft hyphen when the line-breaking algorithm selects that soft hyphen as the break point, and shall render a visible hyphen at the end of the line.",5,5,5,5
+qwen3.8-flash,nemotron-judge,rust-lang/rust,47741,final,The system shall accept `..x` initializer syntax when the target struct’s fields form a structurally equal subset of the fields of `x`.,3,4,5,5
+claude-haiku-5.5,nemotron-judge,flutter/flutter,33850,first,The system shall support evaluation of Swift Package Manager as a mechanism for distributing and loading Swift plugins.,2,2,3,5
+qwen3.8-flash,nemotron-judge,pytorch/pytorch,20822,first,"The system shall read data from Hive, MySQL, and S3 sources for use in PyTorch.",2,2,2,
+qwen3.8-flash,nemotron-judge,pytorch/pytorch,95408,first,The system shall perform a parallel associative scan operation.,2,2,4,5
+qwen3.8-flash,nemotron-judge,rust-lang/rust,47741,first,The system shall accept `..x` initializer syntax when the target struct’s fields form a structurally equal subset of the fields of `x`.,3,4,5,1
+qwen3.8-flash,nemotron-judge,pytorch/pytorch,20822,final,The system shall provide a torch.utils.data.IterableDataset that reads rows from a configured Hive table and yields each row as a dictionary mapping column names to values.,4,4,5,5
+qwen3.8-flash,nemotron-judge,rust-lang/rust,73185,final,The system shall pass `--enable-index-page` to rustdoc when cargo is invoked with `--enable-index-page`.,5,5,5,5
+qwen3.8-flash,nemotron-judge,rust-lang/rust,76490,first,The system shall make format_args! faster than its pre-change implementation.,2,2,4,5
+qwen3.8-flash,nemotron-judge,rust-lang/rust,73185,first,The system shall integrate the rustdoc `--enable-index-page` option with cargo.,2,2,4,5
+qwen3.8-flash,nemotron-judge,pytorch/pytorch,95408,final,"The system shall compute a parallel associative scan, producing for each position the reduction of input elements from the start through that position under an associative binary operator.",5,5,5,5
+claude-haiku-5.5,nemotron-judge,flutter/flutter,24213,final,"The system shall allow developers to supply a Flutter widget as the visual for a map marker, and render that widget at the marker's map position.",4,4,5,5
+claude-haiku-5.5,nemotron-judge,flutter/flutter,24213,first,The system shall allow developers to supply a Flutter widget as the visual representation of a map marker.,4,3,5,5
+claude-haiku-5.5,nemotron-judge,flutter/flutter,14330,first,The system shall deliver code updates to installed application clients without requiring a new app store release.,3,2,5,5
+qwen3.8-flash,nemotron-judge,rust-lang/rust,76490,final,"The system shall reduce the measured execution time of format_args! under identical workload, inputs, environment, and measurement methodology to a lower value than the current implementation.",4,5,5,5
+claude-haiku-5.5,nemotron-judge,flutter/flutter,14330,final,The system shall deliver code updates to installed application clients without requiring a new app store release.,3,2,5,5
+claude-haiku-5.5,nemotron-judge,godotengine/godot-proposals,7329,final,"The system shall support declaring named structs in GDScript source code, with typed fields that can be read and assigned.",4,5,5,5
+claude-haiku-5.5,nemotron-judge,godotengine/godot-proposals,7329,first,"The system shall support declaring named structs in GDScript source code, with typed fields that can be read and assigned.",3,4,4,5
+claude-haiku-5.5,nemotron-judge,godotengine/godot-proposals,867,first,"The system shall provide a Set primitive that stores a collection of unique elements and supports membership testing, addition, and removal, alongside the existing Dictionary and Array primitives.",5,5,5,5
+claude-haiku-5.5,nemotron-judge,godotengine/godot-proposals,867,final,"The system shall provide a Set primitive that stores a collection of unique elements and supports membership testing, addition, and removal, alongside the existing Dictionary and Array primitives.",4,3,5,5
+claude-haiku-5.5,nemotron-judge,flutter/flutter,31713,first,The system shall render platform views on Windows by embedding native Windows controls within the application's rendering surface.,3,4,5,5
+claude-haiku-5.5,nemotron-judge,flutter/flutter,19941,final,The system shall return the zero-based index of the topmost item that is at least partially visible in the ListView viewport.,5,5,5,5
+claude-haiku-5.5,nemotron-judge,flutter/flutter,61229,first,The system shall support decoding and encoding of images in the AVIF format.,4,4,3,5
+claude-haiku-5.5,nemotron-judge,flutter/flutter,19941,first,The system shall return the index of the first visible item in the ListView.,4,4,5,
+claude-haiku-5.5,nemotron-judge,godotengine/godot-proposals,6031,first,"The system shall execute a defined set of GDScript benchmark scripts in less wall-clock time on the new GDScript VM than on the baseline release, measured under identical hardware and build conditions.",3,4,5,
+claude-haiku-5.5,nemotron-judge,flutter/flutter,31713,final,"The system shall display a native Windows control, supplied through a PlatformView, inside the application window at the position defined by its place in the widget tree.",4,4,5,
+claude-haiku-5.5,nemotron-judge,godotengine/godot-proposals,6031,final,"The system shall execute a defined set of GDScript benchmark scripts in less wall-clock time on the new GDScript VM than on the baseline release, measured under identical hardware and build conditions.",4,5,5,5
+claude-haiku-5.5,nemotron-judge,godotengine/godot-proposals,641,final,The system shall allow GDScript class members to be declared with public or private access modifiers.,5,5,5,5
+claude-haiku-5.5,nemotron-judge,godotengine/godot-proposals,7842,first,The system shall provide a zero-allocation API in the Godot C# bindings that allows callers to perform supported operations without incurring managed heap allocations.,3,3,5,
+claude-haiku-5.5,nemotron-judge,godotengine/godot-proposals,7842,final,"The system shall provide zero-allocation Godot C# binding operations, designated in the API documentation, that perform no managed heap allocations during invocation, as measured by the .NET allocation counter.",4,5,5,
+claude-haiku-5.5,nemotron-judge,godotengine/godot-proposals,641,first,The system shall allow GDScript class members to be declared with public or private access modifiers.,4,5,5,5
+claude-haiku-5.5,nemotron-judge,godotengine/godot-proposals,1034,first,The system shall allow GDScript functions to declare a variadic parameter that accepts zero or more trailing arguments at call time.,5,5,5,5
+claude-haiku-5.5,nemotron-judge,flutter/flutter,61229,final,"The system shall decode AVIF-format image files into pixel data, producing output whose dimensions and color values match those specified in the file.",4,4,5,
+claude-haiku-5.5,nemotron-judge,godotengine/godot-proposals,1034,final,The system shall allow GDScript functions to declare a variadic parameter that accepts zero or more trailing arguments at call time.,5,5,5,5
+claude-haiku-5.5,nemotron-judge,godotengine/godot-proposals,7916,final,The system shall composite multiple rendered layers into a single output frame in a defined z-order.,4,4,5,5
+qwen3.8-flash,nemotron-judge,rust-lang/rust,68007,first,The system shall allow tests to be ignored at runtime.,2,2,4,5
+claude-haiku-5.5,nemotron-judge,flutter/flutter,33577,first,The system shall execute compute-intensive tasks on a separate thread when running in Flutter Web.,3,3,5,5
+claude-haiku-5.5,nemotron-judge,godotengine/godot-proposals,7916,first,The system shall composite multiple rendered layers into a single output frame in a defined z-order.,4,5,5,
+qwen3.8-flash,nemotron-judge,rust-lang/rust,68007,final,The system shall bypass execution of test cases for which a runtime ignore selection is active.,4,4,5,
+claude-haiku-5.5,nemotron-judge,flutter/flutter,33577,final,"The system shall execute the callback passed to Flutter's compute() function on a separate thread in Flutter Web, so that it does not run on the main UI thread.",4,4,5,5
+qwen3.8-flash,nemotron-judge,pytorch/pytorch,16897,first,The system shall implement functionality equivalent to `numpy.random.choice` for selecting random elements from a provided array.,3,3,5,
+qwen3.8-flash,nemotron-judge,rust-lang/rust,77960,first,The system shall implement generic function bodies via trampolines that invoke non-generic code.,2,2,4,5
+qwen3.8-flash,nemotron-judge,rust-lang/rust,77960,final,The system shall compile generic function invocations to trampolines invoking function bodies containing no generic type parameters.,4,4,5,5
+claude-haiku-5.5,nemotron-judge,golang/go,18478,first,The system shall provide an escape function in the database/sql package that returns a string with SQL special characters escaped for safe use in a query literal.,3,2,5,
+qwen3.8-flash,nemotron-judge,pytorch/pytorch,16897,final,The system shall provide a function whose return value equals numpy.random.choice's return value for identical arguments.,2,2,5,5
+claude-haiku-5.5,nemotron-judge,godotengine/godot-proposals,3394,first,The system shall support procedurally generated audio whose parameters can be set by the user.,2,2,3,5
+claude-haiku-5.5,nemotron-judge,golang/go,18478,final,The system shall provide an escape function in the database/sql package that returns a string with SQL special characters escaped for safe use in a query literal.,3,3,5,5
+claude-haiku-5.5,nemotron-judge,golang/go,25755,first,"The system shall parse and accept XML documents declaring version 1.1 in their XML declaration, applying the XML 1.1 well-formedness rules.",5,5,5,5
+claude-haiku-5.5,nemotron-judge,godotengine/godot-proposals,3394,final,The system shall generate audio algorithmically from user-specified input parameters rather than from pre-recorded audio files.,5,4,5,5
+claude-haiku-5.5,nemotron-judge,golang/go,25755,final,"The system shall parse and accept XML documents declaring version 1.1 in their XML declaration, applying the XML 1.1 well-formedness rules.",4,5,5,
+claude-haiku-5.5,nemotron-judge,golang/go,27348,first,The system shall provide a command that verifies that the contents of the vendor directory match the module versions and checksums recorded in go.mod and go.sum.,5,5,5,
+claude-haiku-5.5,nemotron-judge,godotengine/godot-proposals,28,first,"The system shall support displaying the Godot editor across multiple connected displays, allowing users to position and use editor windows on any available monitor.",4,4,5,5
+claude-haiku-5.5,nemotron-judge,godotengine/godot-proposals,28,final,"The system shall allow each Godot editor window to be opened on, and moved between, every display the operating system reports as connected.",5,5,5,5
+claude-haiku-5.5,nemotron-judge,godotengine/godot-proposals,3518,first,The system shall provide a TileMap3D node that replaces the GridMap node as the 3D tile-based map node.,4,3,4,5
+claude-haiku-5.5,nemotron-judge,godotengine/godot-proposals,3518,final,The system shall provide a TileMap3D node that allows users to place and remove 3D tiles in a scene as an alternative to the GridMap node.,4,4,5,5
+claude-haiku-5.5,nemotron-judge,golang/go,28631,first,The system shall support compiling Go programs for the WebAssembly (GOARCH=wasm) target by the Go compiler toolchain.,4,5,5,2
+claude-haiku-5.5,nemotron-judge,pytorch/pytorch,2001,first,"The system shall provide a function that displays a summary of a model's layers, including layer names, output shapes, and parameter counts, analogous to Keras model.summary().",4,5,5,5
+claude-haiku-5.5,nemotron-judge,pytorch/pytorch,2001,final,"The system shall provide a function that displays a summary of a model's layers, including layer names, output shapes, and parameter counts, analogous to Keras model.summary().",4,4,5,
+claude-haiku-5.5,nemotron-judge,golang/go,28631,final,The system shall support compiling Go programs for the WebAssembly (GOARCH=wasm) target by the Go compiler toolchain.,4,5,5,2
+claude-haiku-5.5,nemotron-judge,golang/go,27348,final,"The go command shall verify that vendored code matches the requirements in go.mod and go.sum, exiting with zero on success and nonzero on failure.",4,5,5,
+claude-haiku-5.5,nemotron-judge,golang/go,36785,first,The system shall provide an application programming interface (API) that allows clients to retrieve package information from pkg.go.dev.,3,3,5,5
+claude-haiku-5.5,nemotron-judge,golang/go,36785,final,"The system shall provide an application programming interface that lets a client retrieve, by import path, the same package information displayed on pkg.go.dev.",3,2,5,5
+claude-haiku-5.5,nemotron-judge,pytorch/pytorch,47688,first,The system shall execute neural network workloads on the 16-core Neural Engine of ARM-based Mac computers.,4,4,5,5
+claude-haiku-5.5,nemotron-judge,pytorch/pytorch,26340,final,The system shall provide a CPU-only build of PyTorch that is installable from PyPI.,5,5,5,
+claude-haiku-5.5,nemotron-judge,pytorch/pytorch,47688,final,The system shall execute neural network workloads on the 16-core Neural Engine of ARM-based Mac computers.,4,4,5,
+claude-haiku-5.5,nemotron-judge,pytorch/pytorch,87350,first,The system shall provide OpenCL 3.0 compute support through the rusticl driver for GPUs on supported platforms.,4,4,5,5
+claude-haiku-5.5,nemotron-judge,golang/go,19282,final,The system shall run the plugin on Windows without requiring changes to the plugin's source code.,4,4,5,5

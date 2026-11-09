@@ -1,0 +1,151 @@
+Repository,Issue Number,Issue Title
+pytorch/pytorch,77764,General MPS op coverage tracking issue
+pytorch/pytorch,47688,ARM Mac 16-core Neural Engine
+pytorch/pytorch,17835,PyPy support
+pytorch/pytorch,2001,Implement similar PyTorch function as model.summary() in keras?
+pytorch/pytorch,26340,CPU version of PyTorch on PyPI
+pytorch/pytorch,16897,Implement `numpy.random.choice` equivalent
+pytorch/pytorch,38419,[RFC] Add tar-based IterableDataset implementation to PyTorch
+pytorch/pytorch,23430,[Feature request] Let DistributedSampler take a Sampler as input
+pytorch/pytorch,25032,[FYI] NestedTensor Project Progress
+pytorch/pytorch,20822,"[Proposal] Data reading framework for PyTorch (Hive, MySQL, S3 etc.)"
+pytorch/pytorch,26889,Statically checked tensor shapes
+pytorch/pytorch,49440,[RFC] DataLoader architecture updates and TarDataset implementation
+pytorch/pytorch,24826,Transformer Lack of Embedding Layer and Positional Encodings
+pytorch/pytorch,64932,[RFC] TorchStore - A Shared-Memory Tensor Store
+pytorch/pytorch,27610,[FR][RFC] Build a serving framework to host and serve trained PyTorch models
+pytorch/pytorch,42849,[RFC] DeepSpeed + PT Distributed Integration
+pytorch/pytorch,95408,Parallel Associative Scan
+pytorch/pytorch,58734,"Support for `uint16`, `uint32`, and `uint64`"
+pytorch/pytorch,74627,Feature request: INT4 format support
+pytorch/pytorch,7786,[feature request] Simple and Efficient way to get gradients of each element of a sum
+pytorch/pytorch,48972,non-negative least squares solver feature request
+pytorch/pytorch,23110,[RFC] RPC Based Distributed Model Parallel
+pytorch/pytorch,48959,[Poll] Support DistributedDataParallel (DDP) in PyTorch C++ API (libtorch)
+pytorch/pytorch,15849,DataLoader with option to re-use worker processes
+pytorch/pytorch,93173,"[RFC] PT2-Friendly Traceable, Functional Collective Communication APIs"
+pytorch/pytorch,7535,[feature request] Global GPU Flag
+pytorch/pytorch,87350,OpenCL 3.0 support: support every GPU on earth through rusticl
+pytorch/pytorch,72581,Zero-copy on shared memory of NVIDIA Jetson devices
+pytorch/pytorch,711,Feature Request: Easier to extend base RNN implementation
+pytorch/pytorch,64509,Return attention weights in nn.Transformer
+flutter/flutter,14330,Code Push / Hot Update / out of band updates
+flutter/flutter,53041,"Enable ""hot reload"" (not just ""hot restart"") for Flutter Web"
+flutter/flutter,14050,Let flutter be installable via homebrew
+flutter/flutter,46789,Improve the indexability (SEO) of Flutter apps on the web
+flutter/flutter,30701,Support multiple windows for desktop shells
+flutter/flutter,41722,Implement PlatformView support on macOS
+flutter/flutter,47600,Server-side rendering for Flutter web
+flutter/flutter,26801,Apple CarPlay / Android Auto support?
+flutter/flutter,24213,[google_maps_flutter] Support Widgets as markers
+flutter/flutter,31713,Implement PlatformView support on Windows
+flutter/flutter,71400,Customizable project structure (platforms)
+flutter/flutter,128313,Add support for visionOS
+flutter/flutter,33577,[web] Support compute on separate thread in Flutter Web
+flutter/flutter,26134,Support home and lock screen widgets
+flutter/flutter,37597,[webview_flutter] Add Windows support
+flutter/flutter,18443,Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line)
+flutter/flutter,51752,Reusing state logic is either too verbose or too difficult
+flutter/flutter,21594,Table > TableRow > TableCell colspan
+flutter/flutter,29021,Expo like tool for flutter
+flutter/flutter,28901,Flutter support for Apple Watch
+flutter/flutter,45296,[path_provider] Add support for web
+flutter/flutter,18345,SliverAppBar flexibleSpace with height depending on children
+flutter/flutter,54200,Allow Hero widgets to have transitions within the same screen
+flutter/flutter,33850,Investigate Swift Package Manager for Swift plugins
+flutter/flutter,19941,Return index of the first visible item in ListView
+flutter/flutter,55324,Support Firefox as a browser in flutter run
+flutter/flutter,24923,[video_player] Support DRM content
+flutter/flutter,41980,[Desktop] - Splash screen or background color customization
+flutter/flutter,61229,AVIF codec support
+flutter/flutter,11754,Allow release mode builds to run on simulators
+godotengine/godot-proposals,7329,Add structs in GDScript
+godotengine/godot-proposals,162,Add support for nullable static types in GDScript
+godotengine/godot-proposals,6416,Add a Trait system for GDScript
+godotengine/godot-proposals,4872,Allow explicitly defining interfaces in GDScript
+godotengine/godot-proposals,2380,Create a Swarm/Mob/Flock/etc system for managing large amounts of entities
+godotengine/godot-proposals,7842,Expose a zero allocation API to Godot C# bindings
+godotengine/godot-proposals,4282,"Add a ""Mask2D"" node (and/or a ""mask_parent"" property for Sprite2D)"
+godotengine/godot-proposals,28,Add support for multiple displays/screens/monitors in Godot editor
+godotengine/godot-proposals,737,Add union types to Typed GDScript
+godotengine/godot-proposals,899,"Add ""refactor"" tooling to rename symbols in the script editor"
+godotengine/godot-proposals,641,Add public/private access modifiers to GDScript and autocompletion improvements
+godotengine/godot-proposals,831,Add support for global plugins/universal addons
+godotengine/godot-proposals,7916,Implement a Rendering Compositor
+godotengine/godot-proposals,3518,Replace GridMap with an improved TileMap3D node (inspired by the new 2D TileMap)
+godotengine/godot-proposals,2135,Add array unpacking/destructuring to GDScript
+godotengine/godot-proposals,4485,Calinou doesn't sleep
+godotengine/godot-proposals,496,Add proper and complete support for multi-pass shaders
+godotengine/godot-proposals,7895,Godot C# GDExtension Roadmap Discussion
+godotengine/godot-proposals,157,Add literal quoted strings with embedded variables (f-strings) to GDScript
+godotengine/godot-proposals,6121,Implement Terrain
+godotengine/godot-proposals,6031,Improve the performance of the GDScript VM
+godotengine/godot-proposals,3394,Add procedural and parametrizable audio support
+godotengine/godot-proposals,5575,Rework the Tilemap terrain system to improve its usability
+godotengine/godot-proposals,1566,Implement namespaces in GDScript
+godotengine/godot-proposals,6646,Add WebGPU support
+godotengine/godot-proposals,4220,Obfuscate GDScript in production export
+godotengine/godot-proposals,867,Implement a Set primitive to complement Dictionary and Array
+godotengine/godot-proposals,3630,Implement a code formatter for GDScript in the script editor
+godotengine/godot-proposals,1571,Implement method overloading in GDScript
+godotengine/godot-proposals,1034,Add support for variadic functions (varargs) to GDScript
+rust-lang/rust,57525,rustdoc support for per-parameter documentation
+rust-lang/rust,39915,Linking with LLD
+rust-lang/rust,39998,"A new compiler flag: ""link everything statically or die, dammit!"""
+rust-lang/rust,42721,Need negative trait bound
+rust-lang/rust,44034,Crate local state for procedural macros?
+rust-lang/rust,32104,Include images in rustdoc output
+rust-lang/rust,48331,"Using std::io::{Read, Write, Cursor} in a nostd environment"
+rust-lang/rust,81615,Provide a means of turning iterators into fixed-size arrays
+rust-lang/rust,59117,"Add function to make paths absolute, which is different from canonicalization"
+rust-lang/rust,54363,Proc macros: ability to refer to a specific crate/symbol (something similar to `$crate`)
+rust-lang/rust,62208,Inclusive version of take_while
+rust-lang/rust,44796,Initializing array of Option<T> using [None; n] syntax should not require std::marker::Copy for T
+rust-lang/rust,68007,Add ability to ignore tests at runtime.
+rust-lang/rust,42671,Add Vec::contains_ref which is worse for inference but less restrictive than Vec::contains
+rust-lang/rust,77960,Feature request: Use 'trampolines' to make most of the body of a generic function non-generic
+rust-lang/rust,54961,Subslice search
+rust-lang/rust,94347,Use mold as default linker?
+rust-lang/rust,73185,rustdoc: `--enable-index-page` integration with cargo?
+rust-lang/rust,93883,lint against unexpectedly late drop for temporaries in match scrutinee expressions
+rust-lang/rust,59994,Support Windows kernel mode for driver development
+rust-lang/rust,47741,Struct initializer `..x` syntax should work for other structs with structurally equal subset of fields
+rust-lang/rust,69774,[libs] Add `TcpStream::keepalive` and `TcpStream::set_keepalive`
+rust-lang/rust,76490,format_args! is slow
+rust-lang/rust,64191,Add support for splitting linker invocation to a second execution of `rustc`
+rust-lang/rust,68371,Scan is overly specialized
+rust-lang/rust,117668,"RFC: Introduce `setup`, `teardown`, and `fixture` attributes for `cargo test`"
+rust-lang/rust,74970,Make `pub` in a binary equivalent to `pub(crate)` for diagnostics
+rust-lang/rust,53278,Feature Requst: Add regex support to test filters
+rust-lang/rust,74182,"Add support for `#[doc(since=""version"")]` attribute"
+rust-lang/rust,66621,Provide UnixPath and WindowsPath (ditto PathBuf) on all platforms
+golang/go,19282,plugin: add Windows support
+golang/go,32204,net/http: support HTTP/3
+golang/go,22885,cmd/compile: implement powerpc 32-bit backend (ppc32)
+golang/go,2381,x/pkgsite: generate static docs
+golang/go,18478,database/sql: missing escape functions
+golang/go,27179,encoding/json: no way to preserve the order of map keys
+golang/go,56695,x/tools/gopls: annotations for implementations of interfaces
+golang/go,63904,runtime: implement WASM-GC
+golang/go,36785,x/pkgsite: API for pkg.go.dev
+golang/go,27900,cmd/go: 'go mod why' should have an answer for every module in 'go list -m all'
+golang/go,27348,cmd/go: allow verifying vendored code
+golang/go,20461,plugin: Add support for closing plugins
+golang/go,16522,reflect: NamedOf
+golang/go,5171,proposal: database/sql: support a way to perform bulk actions
+golang/go,38028,x/tools/gopls: support change signature refactoring
+golang/go,20982,cmd/link: support msvc object files
+golang/go,32816,cmd/fix: automate migrations for simple deprecations
+golang/go,59507,x/vuln: add support for suppressing vulnerabilities by ID
+golang/go,4828,compress/bzip2: implement bz2 encoder
+golang/go,14565,cmd/compile: coverage instrumentation for fuzzing
+golang/go,28424,cmd/go: add 'go get' options to update direct and indirect dependencies separately
+golang/go,32485,cmd/go: subcommand as git merge tool for go.mod merge conflicts
+golang/go,31280,testing: exclude statically unreachable code in test coverage
+golang/go,36632,x/crypto: add BLAKE3 support
+golang/go,6379,crypto/tls: add PSK support
+golang/go,34055,cmd/go: allow serving module under the subdirectory of git repository
+golang/go,28631,cmd/compile: thread support for webassembly
+golang/go,18594,x/net/http2: support consuming PUSH_PROMISE streams in the client
+golang/go,37205,x/tools/gopls: support for bazel-based projects
+golang/go,25755,encoding/xml: add support for xml version 1.1

@@ -1,0 +1,32 @@
+# Todos os provedores falam API compatível com OpenAI (base_url + chave em env).
+# Adicione/remova modelos livremente. "id" é o rótulo usado nos CSVs.
+providers:
+  openrouter: {base_url: "https://openrouter.ai/api/v1", key_env: OPENROUTER_API_KEY}
+  groq:       {base_url: "https://api.groq.com/openai/v1", key_env: GROQ_API_KEY}
+  openai:     {base_url: "https://api.openai.com/v1",      key_env: OPENAI_API_KEY}
+  deepseek:   {base_url: "https://api.deepseek.com",       key_env: DEEPSEEK_API_KEY}
+
+# Geradores: cada um roda x 3 prompts (naive, fewshot, expert) x 150 issues.
+# Os slugs abaixo são pontos de partida; confira os nomes atuais no provedor.
+generators:   # modelos recentes e baratos, 8 provedores distintos (via OpenRouter)
+  - {id: deepseek-v4.1-flash, provider: openrouter, model: "deepseek/deepseek-v4.1-flash"}
+  - {id: gpt-6-luna,          provider: openrouter, model: "openai/gpt-6-luna"}
+  - {id: claude-haiku-5.5,    provider: openrouter, model: "anthropic/claude-haiku-5.5"}
+  - {id: gemini-3.8-flash,    provider: openrouter, model: "google/gemini-3.8-flash"}
+  - {id: qwen3.8-flash,       provider: openrouter, model: "qwen/qwen3.8-flash"}
+  - {id: glm-5.3-flash,       provider: openrouter, model: "z-ai/glm-5.3-flash"}
+  - {id: minimax-m3.1-flash,  provider: openrouter, model: "minimax/minimax-m3.1-flash"}
+  - {id: mistral-large-4,     provider: openrouter, model: "mistralai/mistral-large-4-0"}
+
+# Juízes de famílias que NÃO geram (evita viés de auto-preferência).
+judge: {id: command-a-plus, provider: openrouter, model: "cohere/command-a-plus"}
+extra_judges:
+  - {id: qwen-judge,     provider: openrouter, model: "qwen/qwen3.8-27b"}   # juiz do loop (como no deck)
+  - {id: nemotron-judge, provider: openrouter, model: "nvidia/nemotron-3.5-super-vl"}
+
+settings:
+  temperature: 1.0     # artigo
+  seed: 42             # artigo
+  judge_temperature: 0.0
+  max_retries: 6
+  sleep_between_calls: 0.0   # suba (ex 2.5) p/ Groq free tier
